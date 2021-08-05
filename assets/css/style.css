@@ -199,9 +199,13 @@ a {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
+  color: #0C2957;
 }
 a:hover {
   text-decoration: none;
+  color: #DC3545;
+}
+a:visited !important{
   color: #0C2957;
 }
 
