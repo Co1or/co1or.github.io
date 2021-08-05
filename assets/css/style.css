@@ -284,7 +284,7 @@ p, li, span {
 }
 .section-header .sub-heading {
   font-size: 20px;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
   color: #FD4A36;
   display: inline-block;
   font-weight: 500;
@@ -1856,7 +1856,7 @@ h6 {
 }
 .header__info li a {
   color: #0C2957;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
   display: block;
   padding: 17px 0px;
   -webkit-transition: 0.3s;
@@ -3405,7 +3405,7 @@ input.form-control-sm {
 }
 .project-item__subtitle {
   font-size: 16px;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
   color: #FD4A36;
   margin-bottom: 7px;
 }
@@ -4159,7 +4159,7 @@ input.form-control-sm {
   font-size: 16px;
   font-weight: 400;
   color: #6B727E;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
   margin-top: 5px;
 }
 .pricing-item__head--2 {
@@ -4448,7 +4448,7 @@ input.form-control-sm {
   color: #FD4A36;
   margin-bottom: 15px;
   font-weight: 700;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
   text-transform: uppercase;
 }
 .blog__box .content .title {
@@ -4463,7 +4463,7 @@ input.form-control-sm {
   color: #FD4A36;
 }
 .blog__box .content p {
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
 }
 .blog__box .content .meta {
   margin-top: 20px;
@@ -4489,12 +4489,12 @@ input.form-control-sm {
   padding-left: 15px;
 }
 .blog__box .content .meta .authore__content h5 {
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
   font-size: 16px;
   font-weight: 700;
 }
 .blog__box .content .meta .date {
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
   font-weight: 700;
   padding-left: 30px;
 }
@@ -4531,7 +4531,7 @@ input.form-control-sm {
 }
 .blog__box--3 .content .cat span {
   color: #fff;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
 }
 .blog__box--3 .content .title {
   font-size: 32px;
@@ -4571,7 +4571,7 @@ input.form-control-sm {
 .blog__box--3 .content .meta span, .blog__box--3 .content .meta a {
   font-size: 14px;
   color: #0C2957;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
 }
 @media (max-width: 767px) {
   .blog__box--3 .content .meta span, .blog__box--3 .content .meta a {
@@ -4702,7 +4702,7 @@ input.form-control-sm {
 .blog__box--quote .meta span, .blog__box--quote .meta a {
   font-size: 14px;
   color: #fff;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
 }
 .blog__box--quote .meta span:not(:last-child) {
   margin-right: 30px;
@@ -4907,7 +4907,7 @@ input.form-control-sm {
 .blog-author__text span {
   color: #FD4A36;
   font-size: 12px;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
   font-weight: 700;
 }
 
@@ -4935,7 +4935,7 @@ input.form-control-sm {
   margin-bottom: 10px;
   position: relative;
   z-index: 1;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
   background: #F7F7F7;
 }
 .blog-post-tag a:hover {
@@ -4977,7 +4977,7 @@ input.form-control-sm {
 }
 .bakix-navigation span a {
   color: #FD4A36;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
   text-transform: capitalize;
 }
 .bakix-navigation h4 {
@@ -5085,7 +5085,7 @@ input.form-control-sm {
   padding: 12px 30px;
   padding-right: 0;
   font-size: 14px;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
 }
 .widget .cat a:hover {
   background: #FD4A36;
@@ -5389,7 +5389,7 @@ input.form-control-sm {
 .latest__comments .avatar-name span {
   font-size: 12px;
   font-weight: 700;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
 }
 .latest__comments .reply {
   color: #0C2957;
@@ -5412,7 +5412,7 @@ input.form-control-sm {
   color: #FD4A36;
 }
 .latest__comments--2 p {
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
   font-size: 14px;
   line-height: 24px;
 }
@@ -5802,7 +5802,7 @@ input.form-control-sm {
 }
 .faqs .card__body p {
   line-height: 28px;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
 }
 .faqs .card:not(:first-of-type):not(:last-of-type) {
   border-bottom: 1px solid #E1E1E1;
@@ -5855,7 +5855,7 @@ input.form-control-sm {
 }
 .faqs__2 .card__body p {
   line-height: 27px;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
   opacity: 0.7;
   color: #fff;
 }
@@ -6523,7 +6523,7 @@ input.form-control-sm {
 
 .counter-box .odometer {
   font-size: 60px;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
   margin-top: 13px;
   margin-bottom: 3px;
 }
@@ -6778,7 +6778,7 @@ input.form-control-sm {
   margin-bottom: 10px;
   font-weight: 500;
   color: #0C2957;
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
 }
 .skill-boxs .skill-item .progress {
   height: 12px;
@@ -6839,7 +6839,7 @@ input.form-control-sm {
   font-size: 22px;
 }
 .privacy__lists li {
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
   line-height: 27px;
   position: relative;
   padding-left: 20px;
@@ -7129,7 +7129,7 @@ input.form-control-sm {
   border-bottom: 1px solid #2A4877;
 }
 .project-details li span {
-  font-family: "Rubik", sans-serif;
+  //font-family: "Rubik", sans-serif;
   display: block;
   font-weight: 400;
   font-size: 16px;
