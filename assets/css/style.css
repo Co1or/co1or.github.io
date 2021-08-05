@@ -201,12 +201,10 @@ a {
   transition: 0.3s;
   color: #0C2957;
 }
+
 a:hover {
   text-decoration: none;
   color: #DC3545;
-}
-a:visited !important{
-  color: #0C2957;
 }
 
 span {
@@ -3063,6 +3061,7 @@ input.form-control-sm {
   margin-bottom: 30px;
 }
 .feature-item__icon img {
+  width: 90px;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
