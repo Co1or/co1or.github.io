@@ -1,23 +1,4 @@
 @charset "UTF-8";
-/*-----------------------------------------------------------------------------------
-
-    Template Name: SiteName - Multipurpose Technology HTML5 Template
-    Template URI: site.com
-    Description: SiteName - Multipurpose Technology HTML5 Template
-    Author: BasicTheme
-    Author URI: site.com
-    Version: 1.0
-
------------------------------------------------------------------------------------
-
-    CSS INDEX
-    ===================
-
-	01. Theme default CSS
-
------------------------------------------------------------------------------------*/
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700&display=swap");
 @-webkit-keyframes zoom {
   0% {
     -webkit-transform: scale(1);
@@ -449,13 +430,15 @@ p, li, span {
 
 .mt-30 {
   margin-top: 30px !important;
-  transition:transform .3s
+  transition:transform .3s;
 }
+
 .mt-30:hover {
   -webkit-transform: scale(1.05);
   -ms-transform: scale(1.05);
   transform: scale(1.05);
-  transition:transform .3s
+  transition:transform .3s;
+  cursor:pointer;
 }
 
 .mt-35 {
@@ -3026,6 +3009,7 @@ input.form-control-sm {
 .feature-area {
   position: relative;
   z-index: 1;
+  margin-bottom: 30px;
 }
 .feature-area::after {
   background: #F7F7F7;
@@ -3052,7 +3036,7 @@ input.form-control-sm {
   box-shadow: 0px 10px 30px 0px rgba(2, 24, 95, 0.06);
   text-align: center;
   background: #fff;
-  border-radius: 5px;
+  border-radius: 20px;
 }
 .feature-item__icon {
   width: 90px;
@@ -3069,9 +3053,10 @@ input.form-control-sm {
 }
 .feature-item__icon img {
   width: 90px;
-  -webkit-transition: 0.3s;
-  -o-transition: 0.3s;
-  transition: 0.3s;
+  //-webkit-transition: 0.3s;
+  //-o-transition: 0.3s;
+  //transition: 0.3s;
+  border-radius: 20px;
 }
 .feature-item__icon--1 {
   background: #37B546;
@@ -3122,9 +3107,9 @@ input.form-control-sm {
 .feature-item__title {
   font-size: 22px;
   margin-bottom: 20px;
-  -webkit-transition: 0.3s;
-  -o-transition: 0.3s;
-  transition: 0.3s;
+  //-webkit-transition: 0.3s;
+  //-o-transition: 0.3s;
+  //transition: 0.3s;
 }
 .feature-item__title--2 {
   margin-bottom: 15px;
@@ -3135,7 +3120,7 @@ input.form-control-sm {
   transform: scale(0.8);
 }*/
 .feature-item:hover .feature-item__title {
-  color: #FD4A36;
+  //color: #FD4A36;
 }
 .feature-item__2 {
   box-shadow: 0px 0px 20px 0px rgba(0, 15, 105, 0.06);
@@ -7437,5 +7422,3 @@ input.form-control-sm {
 .footer-widget__2 .recent-news__date {
   color: #A4A6A9;
 }
-
-/*# sourceMappingURL=style.css.map */
