@@ -449,6 +449,13 @@ p, li, span {
 
 .mt-30 {
   margin-top: 30px !important;
+  transition:transform .3s
+}
+.mt-30:hover {
+  -webkit-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  transform: scale(1.05);
+  transition:transform .3s
 }
 
 .mt-35 {
@@ -3122,11 +3129,11 @@ input.form-control-sm {
 .feature-item__title--2 {
   margin-bottom: 15px;
 }
-.feature-item:hover .feature-item__icon img {
+/*.feature-item:hover .feature-item__icon img {
   -webkit-transform: scale(0.8);
   -ms-transform: scale(0.8);
   transform: scale(0.8);
-}
+}*/
 .feature-item:hover .feature-item__title {
   color: #FD4A36;
 }
