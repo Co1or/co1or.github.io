@@ -3037,6 +3037,9 @@ input.form-control-sm {
   text-align: center;
   background: #fff;
   border-radius: 20px;
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+  -moz-background-size:100% 100%;
 }
 .feature-item__icon {
   width: 90px;
